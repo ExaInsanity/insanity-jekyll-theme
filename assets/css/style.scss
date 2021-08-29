@@ -1,0 +1,3 @@
+@import
+    "insanity/skins/{{ site.insanity.skin | default: 'default' }}",
+    "insanity/initialize";
